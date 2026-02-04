@@ -19,7 +19,7 @@ Aplicação front-end que apresenta filmes, séries e HQs do universo Marvel. In
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/Vinizin0509/ProjetoMestresDaWeb.git
+git clone https://github.com/Vinizin0509/MarvelExplorer.git
 cd ProjetoMestresDaWeb
 ```
 2. **Instale as dependências:**
